@@ -1,3 +1,4 @@
+![logo](https://github.com/mR1613/mR1613/blob/main/github%2032%20png.jpg)
 <h1 align="center">Hi 👋, I'm Nitin Badodekar</h1>
 <h3 align="center">A passionate Web Developer From India</h3>
 
