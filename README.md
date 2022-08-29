@@ -1,5 +1,15 @@
 ![logo](https://github.com/mR1613/mR1613/blob/main/github%2032%20png.jpg)
-<h1 align="center">💥 Hi 👋, I 🅰️m Nitin 🅱️adodekar 💥 </h1>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CSS Text Animation Effect</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1 data-text="Nitin Badodekar">Nitin Badodekar</h1>
+    </body>
+</html>
 <h3 align="center">🅰️ 🅿️assionate Web Developer From India 🇮🇳 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
